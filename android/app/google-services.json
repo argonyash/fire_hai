@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810843615994",
+    "project_id": "ek-pal",
+    "storage_bucket": "ek-pal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810843615994:android:6fa8e7938d5f5117784f43",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810843615994-o0e20auih1dc42kidqsgbhd7ce7moib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaN-4jyrXftil-6a7X1XQBuTzw0UTVjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810843615994-o0e20auih1dc42kidqsgbhd7ce7moib7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
